@@ -6,8 +6,8 @@
 #include <ESP8266WiFi.h>
 #include "AdafruitIO_WiFi.h"
  
-#define WIFI_SSID       "casita1"
-#define WIFI_PASS       "monoxidodedihidrogeno"
+#define WIFI_SSID       "tu wifi"
+#define WIFI_PASS       "tu clave del wifi"
  
 #define IO_USERNAME    "campodetenis"
 #define IO_KEY         "hay que pedir una clave nueva"
