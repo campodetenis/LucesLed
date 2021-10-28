@@ -10,7 +10,7 @@
 #define WIFI_PASS       "monoxidodedihidrogeno"
  
 #define IO_USERNAME    "campodetenis"
-#define IO_KEY         "aio_gHtA71R6cOCSHeqJ2lTN7HYrCiu3"
+#define IO_KEY         "hay que pedir una clave nueva"
 
 
  
